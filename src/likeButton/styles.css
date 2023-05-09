@@ -1,0 +1,11 @@
+.like-button {
+  font-size: 32px;
+  font-family: san-serif;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.liked {
+  color: blue;
+  font-weight: bold;
+}
